@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Babis  
+
+🎓 MSc Business Analytics – Computational Intelligence @ VU Amsterdam  
+📐 Mathematics graduate with focus on optimization, probability & statistics  
+🤖 Building a portfolio in Machine Learning, AI & Data Science  
+📂 Current project: [Mathematics for Machine Learning](https://github.com/CharalamposGiannakis/vu-mathematics-for-ml)    
 
 <!--
 **CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
