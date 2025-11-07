@@ -1,8 +1,9 @@
-## Hi, I'm Babis  
+##  Hi, I'm Charalampos (Babis) Giannakis
 
 🎓 MSc Business Analytics – Computational Intelligence @ VU Amsterdam  
-📐 Mathematics graduate with focus on optimization, probability & statistics  
-🤖 Building a portfolio in Machine Learning, AI & Data Science   
+📊 Mathematics background with focus on optimization, probability & statistics  
+🤖 Interested in Machine Learning, Data Analysis, and Decision Modeling  
+🧭 Building a portfolio of applied analytical projects (Python / R / Julia)
 
 <!--
 **CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
