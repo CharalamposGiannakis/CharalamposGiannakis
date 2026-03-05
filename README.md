@@ -5,6 +5,9 @@
 🤖 Interested in Machine Learning, Data Analysis, and Decision Modeling  
 🧭 Building a portfolio of applied analytical projects (Python / SQL / R / Julia)
 
+## 🔬 Current Projects
+- [Knowledge-Graphs-Project](https://github.com/Czesare/Knowledge-graphs-project)
+
 <!--
 **CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
