@@ -3,7 +3,7 @@
 🎓 MSc Business Analytics – Computational Intelligence @ VU Amsterdam  
 📊 Mathematics background with focus on optimization, probability & statistics  
 🤖 Interested in Machine Learning, Data Analysis, and Decision Modeling  
-🧭 Building a portfolio of applied analytical projects (Python / R / Julia)
+🧭 Building a portfolio of applied analytical projects (Python / SQL / R / Julia)
 
 <!--
 **CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
