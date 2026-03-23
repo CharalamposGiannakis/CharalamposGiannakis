@@ -7,6 +7,7 @@
 
 ## 🔬 Current Projects
 🔭 [Knowledge-Graphs-Project](https://github.com/Czesare/Knowledge-graphs-project)
+🗓️ [AI-Calendar](https://github.com/your-username/ai-calendar)
 
 <!--
 **CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
