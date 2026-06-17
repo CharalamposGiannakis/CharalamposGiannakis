@@ -6,7 +6,7 @@
 🧭 Building a portfolio of applied analytical projects (Python / SQL / R / Julia)
 
 ## 🔬 Current Projects
-- 🔭 [Knowledge-Graphs-Project](https://github.com/Czesare/Knowledge-graphs-project)
+- 🔭 [ML Engineering Knowledge Agent](https://github.com/CharalamposGiannakis/ml-knowledge-agent)
 - 🗓️ [AI-Calendar](https://github.com/CharalamposGiannakis/ai-calendar)
 
 <!--
