@@ -1,78 +1,25 @@
-# Hi, I'm Charalampos (Babis) Giannakis
+# Hi, I'm Babis Giannakis
 
-MSc Business Analytics student specialising in **Computational Intelligence** at Vrije Universiteit Amsterdam, with a BSc in Mathematics focused on applied mathematics, statistics, and operations research.
+MSc student in Business Analytics (Computational Intelligence track) at VU Amsterdam, with a BSc in Mathematics. I build applied ML systems with an emphasis on reproducible pipelines, honest evaluation, and code that doesn't need a walkthrough to understand.
 
-I build applied AI and data systems, with an emphasis on reproducible workflows, maintainable software, and tools that support real decisions.
+## Featured Projects
 
-## Current Work
+### [Expedia Hotel Search Ranking](https://github.com/CharalamposGiannakis/expedia-hotel-ranking)
+Learning-to-rank system for hotel search personalization. LightGBM LambdaRank on 10M search impressions, 89 engineered features, NDCG@5 = 0.408. Includes within-search feature normalization, position bias analysis, and fairness auditing.
+
+### [Smartphone Mood Prediction](https://github.com/CharalamposGiannakis/smartphone-mood-prediction)
+Next-day mood prediction from smartphone sensor data for depression monitoring. XGBoost vs LSTM on a 27-patient clinical dataset with walk-forward temporal cross-validation. Honest engagement with small-sample limitations.
 
 ### [AI Calendar](https://github.com/CharalamposGiannakis/ai-calendar)
+AI-assisted calendar that turns natural-language input into structured events. Python, FastAPI, SQLAlchemy.
 
-An AI-assisted calendar application designed to transform natural-language input and structured imports into manageable calendar events.
-
-**Current stack:** Python, FastAPI, SQLAlchemy, Alembic, JavaScript, SQLite, Git
-
-**Focus areas:**
-
-* modular backend architecture;
-* reliable datetime and event semantics;
-* structured import pipelines;
-* maintainable APIs and user-facing workflows.
-
-### [ML Engineering Knowledge Agent](https://github.com/CharalamposGiannakis/ml-knowledge-agent)
-
-A knowledge-based AI system for retrieving and connecting machine-learning research through a structured knowledge graph.
-
-**Current stack:** Python, RDF, OWL, SPARQL, PyKEEN, knowledge graph embeddings, LLM-based retrieval
-
-**Focus areas:**
-
-* research-paper knowledge extraction;
-* graph-grounded retrieval;
-* link prediction;
-* provenance, validation, and explainable outputs.
-
-## Other Areas of Interest
-
-* Machine learning and applied data science
-* Knowledge graphs and retrieval-augmented systems
-* Network science and link prediction
-* Decision-support systems
-* Data pipelines and backend development
-* Optimization and reinforcement learning
-
-## Technical Toolbox
-
-**Languages:** Python, SQL, R, JavaScript, Julia, MATLAB
-**Backend and data:** FastAPI, SQLAlchemy, pandas, scikit-learn
-**AI and ML:** PyTorch, PyKEEN, machine learning, graph analytics
-**Knowledge technologies:** RDF, OWL, SPARQL
-**Engineering:** Git, Docker, Linux, Alembic, LaTeX
-**Analytics:** Power BI, Excel, Plotly, Streamlit
+### [ML Knowledge Agent](https://github.com/CharalamposGiannakis/ml-knowledge-agent)
+Knowledge-graph-based system for retrieving and connecting ML research. RDF/OWL, SPARQL, PyKEEN, LLM-grounded retrieval.
 
 ## Currently
 
-* Researching link prediction methods in social networks
-* Developing the AI Calendar architecture and import pipeline
-* Expanding my experience in ML engineering, AI tooling, and production-oriented software development
-* Looking for a working-student or internship role in AI, machine learning, data engineering, or applied data science
+Researching link prediction in social networks and looking for a working-student or internship role in AI/ML engineering or applied data science.
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/charalampos-giannakis-85444824a) · [Email](mailto:charalampos.ion.giannakis@gmail.com)
-
-
-<!--
-**CharalamposGiannakis/CharalamposGiannakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
