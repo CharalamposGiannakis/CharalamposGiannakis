@@ -13,6 +13,9 @@ Classifying six transport modes from smartphone IMU sensors with a six-rung eval
 ### [Smartphone Mood Prediction](https://github.com/CharalamposGiannakis/smartphone-mood-prediction)
 Next-day mood prediction from smartphone sensor data for depression monitoring. XGBoost vs LSTM on a 27-patient clinical dataset with walk-forward temporal cross-validation. Honest engagement with small-sample limitations.
 
+### [ML Knowledge Agent](https://github.com/CharalamposGiannakis/ml-knowledge-agent)
+Personal research assistant built on an OWL/RDF knowledge graph of ML literature. Extracts structured benchmark results from papers, validates them through SHACL, and answers sourced questions about method comparisons. Graph and extraction pipeline live; query agent and UI in progress.
+
 ### [AI Calendar](https://github.com/CharalamposGiannakis/ai-calendar)
 AI-assisted calendar that turns natural-language input into structured events. Python, FastAPI, SQLAlchemy.
 
