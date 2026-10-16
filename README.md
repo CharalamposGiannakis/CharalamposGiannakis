@@ -1,8 +1,11 @@
 # Hi, I'm Babis Giannakis
 
-MSc student in Business Analytics (Computational Intelligence track) at VU Amsterdam, with a BSc in Mathematics. I build applied ML systems with an emphasis on reproducible pipelines, honest evaluation, and code that doesn't need a walkthrough to understand.
+Pursuing two MSc degrees: Business Analytics (Computational Intelligence) at VU Amsterdam and Computer Science at VU Amsterdam / University of Amsterdam, following a BSc in Mathematics. I build applied ML systems with an emphasis on reproducible pipelines, honest evaluation, and code that doesn't need a walkthrough to understand.
 
 ## Featured Projects
+
+### [Adaptive Medical Edge AI](https://github.com/CharalamposGiannakis/adaptive-medical-edge-ai)
+Adaptive TinyViT for lung-ultrasound classification using OpenPOCUS. One shared checkpoint supports 24 width × frame-count configurations through structured pruning and knowledge distillation. Under simulated resource budgets, it completed 80% of requests versus 20% for the original fixed TinyViT; lightweight MobileNetV2 also reached 80%. Includes held-out evaluation and CPU benchmarking.
 
 ### [Expedia Hotel Search Ranking](https://github.com/CharalamposGiannakis/expedia-hotel-ranking)
 Learning-to-rank system for hotel search personalization. LightGBM LambdaRank on 10M search impressions, 89 engineered features, NDCG@5 = 0.408. Within-search feature normalization, position bias analysis, and fairness auditing.
@@ -21,7 +24,7 @@ AI-assisted calendar that turns natural-language input into structured events. P
 
 ## Currently
 
-Researching link prediction in social networks and looking for a working-student or internship role in AI/ML engineering or applied data science.
+Research Assistant in **Hybrid Intelligence at VU Amsterdam**, developing a researcher-facing application for capturing, validating, and querying human–AI collaboration scenarios. The work brings together an OWL/RDF ontology, SHACL validation, SPARQL/GraphDB, and a web interface.
 
 ## Connect
 
